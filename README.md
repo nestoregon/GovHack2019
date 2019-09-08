@@ -1,9 +1,13 @@
 # GovHack 2019 - Make Career Cool Again
 
 ## Challenge statement 1
-```How can ATO and other Australian public data be used to help the community fill employment opportunities?```
+```
+How can ATO and other Australian public data be used to help the community fill employment opportunities?
+```
 ## Challenge statement 2
-```Choose one of the following questions to address: 1. How can recent and future changes in the labour market help prepare young people for job opportunities? 2. What can we learn from case studies of regional labour markets? For example, what does rapid change in the industries or occupations within a region tell us about the needs of employers/workers in other regional labour markets```
+```
+Choose one of the following questions to address: 1. How can recent and future changes in the labour market help prepare young people for job opportunities? 2. What can we learn from case studies of regional labour markets? For example, what does rapid change in the industries or occupations within a region tell us about the needs of employers/workers in other regional labour markets
+```
 
 ### Our team
 @nestoregon
@@ -13,7 +17,7 @@
 ### Link to our files
 https://drive.google.com/drive/folders/1YRpYKQ3wwZxKut6w9kRC8vLSWvlvu0FE?usp=sharing
 
-### Tools we tinkered with
+### Tools/Links/Data we tinkered with
 
 * Rapid prototyping on paper
 * Tableau
